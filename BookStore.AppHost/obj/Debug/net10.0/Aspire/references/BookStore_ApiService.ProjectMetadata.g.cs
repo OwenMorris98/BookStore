@@ -15,7 +15,7 @@ public class BookStore_ApiService : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the BookStore_ApiService project.
     /// </summary>
-    public string ProjectPath => """C:\Users\opmmo\source\repos\BookStore\BookStore.ApiService\BookStore.ApiService.csproj""";
+    public string ProjectPath => """c:\Users\opmmo\source\repos\BookStore\BookStore.ApiService\BookStore.ApiService.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

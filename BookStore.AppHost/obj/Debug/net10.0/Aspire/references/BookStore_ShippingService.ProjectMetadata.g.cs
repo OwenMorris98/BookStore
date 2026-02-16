@@ -15,7 +15,7 @@ public class BookStore_ShippingService : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the BookStore_ShippingService project.
     /// </summary>
-    public string ProjectPath => """C:\Users\opmmo\source\repos\BookStore\BookStore.ShippingService\BookStore.ShippingService.csproj""";
+    public string ProjectPath => """c:\Users\opmmo\source\repos\BookStore\BookStore.ShippingService\BookStore.ShippingService.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

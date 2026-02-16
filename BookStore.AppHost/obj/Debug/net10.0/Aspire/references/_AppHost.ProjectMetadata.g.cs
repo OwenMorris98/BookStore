@@ -17,5 +17,5 @@ public class BookStore_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\opmmo\source\repos\BookStore\BookStore.AppHost""";
+    public static string ProjectPath => """c:\Users\opmmo\source\repos\BookStore\BookStore.AppHost""";
 }

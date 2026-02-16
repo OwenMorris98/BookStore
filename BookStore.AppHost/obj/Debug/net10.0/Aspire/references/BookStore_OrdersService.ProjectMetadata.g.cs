@@ -15,7 +15,7 @@ public class BookStore_OrdersService : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the BookStore_OrdersService project.
     /// </summary>
-    public string ProjectPath => """C:\Users\opmmo\source\repos\BookStore\BookStore.OrdersService\BookStore.OrdersService.csproj""";
+    public string ProjectPath => """c:\Users\opmmo\source\repos\BookStore\BookStore.OrdersService\BookStore.OrdersService.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

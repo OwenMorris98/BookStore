@@ -17,11 +17,11 @@ using System.Reflection;
     "ext\\"))]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Users\\opmmo\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1.1\\tools\\" +
     "ext\\bin\\"))]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\opmmo\\source\\repos\\BookStore\\BookStore.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "c:\\Users\\opmmo\\source\\repos\\BookStore\\BookStore.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "BookStore.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Users\\opmmo\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.1.1\\tools\\Aspire.D" +
     "ashboard.exe"))]
-[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\opmmo\\source\\repos\\BookStore\\BookStore.AppHost\\obj\\")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "c:\\Users\\opmmo\\source\\repos\\BookStore\\BookStore.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookStore.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
