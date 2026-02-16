@@ -1,0 +1,18 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.1.1">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>0a65ca1f-a78c-491e-b5be-a2e60e3efc5e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookStore.ApiService\BookStore.ApiService.csproj" />
+    <ProjectReference Include="..\BookStore.Web\BookStore.Web.csproj" />
+    <ProjectReference Include="..\BookStore.OrdersService\BookStore.OrdersService.csproj" />
+    <ProjectReference Include="..\BookStore.ShippingService\BookStore.ShippingService.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\bin\Debug\net10.0\BookStore.ServiceDefaults.deps.json
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\bin\Debug\net10.0\BookStore.ServiceDefaults.dll
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\bin\Debug\net10.0\BookStore.ServiceDefaults.pdb
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.csproj.AssemblyReference.cache
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.AssemblyInfoInputs.cache
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.AssemblyInfo.cs
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.csproj.CoreCompileInputs.cache
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.dll
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\refint\BookStore.ServiceDefaults.dll
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\BookStore.ServiceDefaults.pdb
+c:\Users\opmmo\source\repos\BookStore\BookStore.ServiceDefaults\obj\Debug\net10.0\ref\BookStore.ServiceDefaults.dll
